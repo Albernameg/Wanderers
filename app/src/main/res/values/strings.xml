@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">wanderers</string>
+    <string name="app_name">Aliva</string>
+    <string name="create"><u>Create a new account</u></string>
+    <string name="explore">Explore</string>
+    <string name="slogan">Browse a lot of interesting tourist offers and choose something for yourself. The World is waiting!</string>
+    <string name="slogan2">Explore and \nDiscover new places</string>
+    <string name="forgot_password"><u>Forgot Password ?</u></string>
+    <string name="login">Login</string>
 </resources>
